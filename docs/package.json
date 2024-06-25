@@ -1,0 +1,22 @@
+{
+  "name": "@zkp-docs/docs",
+  "type": "module",
+  "version": "1.0.0",
+  "private": "true",
+  "description": "",
+  "author": "zhangkaipeng",
+  "license": "ISC",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:serve": "vitepress serve"
+  },
+  "dependencies": {
+    "@escook/vitepress-theme": "^1.3.1",
+    "@zkp-docs/examples": "workspace:^1.0.1",
+    "vitepress": "1.1.4",
+    "vitepress-theme-demoblock": "^3.0.7"
+  }
+}
