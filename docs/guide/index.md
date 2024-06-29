@@ -7,7 +7,7 @@ hero:
   text: 欢迎来到我的笔记
   tagline: 与真诚的人硬碰硬 ...
   image:
-    src: /rickandmorty.jpg
+    src: /rickandmorty.png
     alt: Yannick
   actions:
     - theme: brand
