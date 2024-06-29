@@ -5,7 +5,7 @@ import { nav, sidebar, socialLinks } from './configs'
 
 export default defineConfigWithTheme ({
   title: 'Yannick',
-  base: '/yannick-docs/',
+  base: '/docs/',
   srcDir: 'guide',
   metaChunk: true,
   lastUpdated: true,

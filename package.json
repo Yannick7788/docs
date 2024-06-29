@@ -1,9 +1,9 @@
 {
-  "name": "zkp-docs",
+  "name": "yannick-docs",
   "type": "module",
   "version": "1.0.0",
   "description": "",
-  "author": "给我一个div",
+  "author": "yannick",
   "license": "ISC",
   "keywords": [],
   "main": "index.js",
